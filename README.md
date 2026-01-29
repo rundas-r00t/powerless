@@ -10,3 +10,5 @@ the `powerless.cs` file is the source to create the `powerless.exe` intepreter. 
 `C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /reference:C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Management.Automation\v4.0_3.0.0.0__31bf3856ad364e35\system.management.automation.dll /out:c:\YOURPATHHERE\powerless.exe c:\YOURPATHHERE\powerless.cs`
 
 and this will create the `powerless.exe` file in the file list above. (or you can just download powerless.exe and trust that i compiled it correctly.)
+
+load `powerless.exe` to the victim machine and you will be able to run powershell commands without using powershell itself.
