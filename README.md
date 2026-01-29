@@ -15,6 +15,8 @@ load `powerless.exe` onto the victim machine and you will be able to run powersh
 
 
 test this yourself by opening cmd.exe, and running `powerless.exe test.ps1` to get output:
+
+
 <img width="357" height="144" alt="image" src="https://github.com/user-attachments/assets/962c33a1-72f3-4b12-8724-8bfa920835c8" />
 
 the only annoying part of it is that you have to ^C after each command, but otherwise this will let you run powershell commands and circumvent any powershell-related policy restrictions.
