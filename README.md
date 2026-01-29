@@ -11,4 +11,4 @@ the `powerless.cs` file is the source to create the `powerless.exe` intepreter. 
 
 and this will create the `powerless.exe` file (or you can just download powerless.exe and trust that i compiled it correctly).
 
-load `powerless.exe` to the victim machine and you will be able to run powershell commands without using powershell itself.
+load `powerless.exe` onto the victim machine and you will be able to run powershell commands without using powershell itself.
